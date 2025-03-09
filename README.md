@@ -38,14 +38,18 @@ In this course, we will explore the pillars of cybersecurity, from theoretical f
 * Extensive knowledge of Windows and Linux operating systems.
 * Recognize and mitigate the most common web vulnerabilities according to OWASP.
 
+## ⚙Recursos
+[Cisco NetAcad](https://www.netacad.com/career-paths/cybersecurity?course=&courseLang=en-US)
+| [Security Blue Team](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle)
+| [IBM SkillsBuild](http://skillsbuild.org/adult-learners/explore-learning/cybersecurity-analyst)
+| [Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses)
+| [Linux Professional Institute](https://www.lpi.org/es/our-certifications/linux-essentials-overview/)
+
 ## 🧑‍💻Contributions
 Contributions are welcome! If you find any errors, have any suggestions, or want to add content, please feel free to open an issue or send a pull request.
 
 ## 📬Contact
-If you have any questions, please feel free to contact me at:
-
-🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)
-
-💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](www.linkedin.com/in/josé-pablo-mena-villalobos)
-
+If you have any questions, please feel free to contact me at:<br>
+🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)<br>
+💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](www.linkedin.com/in/josé-pablo-mena-villalobos)<br>
 📧 **Email**: pablo13villalobos@gmail.com
