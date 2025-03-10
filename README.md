@@ -5,14 +5,14 @@ Welcome to the world of cybersecurity! This course will provide you with a solid
 In this course, we will explore the pillars of cybersecurity, from theoretical foundations to practical applications. You will learn about the different types of cyberattacks, how the most common operating systems work, and best practices for protecting web applications.
 
 ## 🗂️Course Content!
-📚[**Fundamentals in:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/1.%20Fundamentals)
+📚[**Fundamentals:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/1.%20Fundamentals)
 * Cybersecurity
 * The cloud
 * The web
 * Networks
 * Virtualization.
 
-⚠[**Cyberattacks such as:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/2.%20Cyberattacks)
+⚠[**Cyberattacks:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/2.%20Cyberattacks)
 * Types of malware (viruses, trojans, ransomware, etc.).
 * Phishing and social engineering attacks.
 * Denial of service attacks (DoS and DDoS).
