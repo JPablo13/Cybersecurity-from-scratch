@@ -5,22 +5,22 @@ Welcome to the world of cybersecurity! This course will provide you with a solid
 In this course, we will explore the pillars of cybersecurity, from theoretical foundations to practical applications. You will learn about the different types of cyberattacks, how the most common operating systems work, and best practices for protecting web applications.
 
 ## 🗂️Course Content!
-📚[**Fundamentals:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/1.%20Fundamentals)
+[📚**Fundamentals:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/1.%20Fundamentals)
 * Cybersecurity
 * The cloud
 * The web
 * Networks
 * Virtualization.
 
-⚠[**Cyberattacks:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/2.%20Cyberattacks)
+[⚠**Cyberattacks:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/2.%20Cyberattacks)
 * Types of malware (viruses, trojans, ransomware, etc.).
 * Phishing and social engineering attacks.
 * Denial of service attacks (DoS and DDoS).
 * Attacks on web applications.
 
-💻**Operating Systems:**
-* Windows Fundamentals: Configuration, Best Practices, Commands, Directories, and Essential Files.
-* Introduction to Linux: Permissions, Commands, Directories, and Essential Files.
+[💻**Operating Systems:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/3.%20Operating%20Systems)
+* [🐧Introduction to Linux:](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/3.%20Operating%20Systems/Windows) Permissions, Commands, Directories, and Essential Files.
+* [🪟Windows Fundamentals:](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/3.%20Operating%20Systems/Linux) Configuration, Best Practices, Commands, Directories, and Essential Files.
 
 🌐**OWASP Top Ten:**
 * Analysis of the 10 Most Critical Web Vulnerabilities.
@@ -38,7 +38,7 @@ In this course, we will explore the pillars of cybersecurity, from theoretical f
 * Extensive knowledge of Windows and Linux operating systems.
 * Recognize and mitigate the most common web vulnerabilities according to OWASP.
 
-## ⚙Recursos
+## ⚙Resources
 [Cisco NetAcad](https://www.netacad.com/career-paths/cybersecurity?course=&courseLang=en-US)
 | [Security Blue Team](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle)
 | [IBM SkillsBuild](http://skillsbuild.org/adult-learners/explore-learning/cybersecurity-analyst)
@@ -47,6 +47,8 @@ In this course, we will explore the pillars of cybersecurity, from theoretical f
 
 ## 🧑‍💻Contributions
 Contributions are welcome! If you find any errors, have any suggestions, or want to add content, please feel free to open an issue or send a pull request.
+
+---
 
 ## 📬Contact
 If you have any questions, please feel free to contact me at:<br>
