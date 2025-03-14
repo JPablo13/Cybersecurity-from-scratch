@@ -22,7 +22,7 @@ In this course, we will explore the pillars of cybersecurity, from theoretical f
 * [🐧Introduction to Linux:](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/3.%20Operating%20Systems/Windows) Permissions, Commands, Directories, and Essential Files.
 * [🪟Windows Fundamentals:](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/3.%20Operating%20Systems/Linux) Configuration, Best Practices, Commands, Directories, and Essential Files.
 
-🌐**OWASP Top Ten:**
+[🌐**OWASP Top Ten:**](https://github.com/JPablo13/Introductory-Course-to-Cybersecurity/tree/main/4.%20OWAPS%20Top%2010)
 * Analysis of the 10 Most Critical Web Vulnerabilities.
 * Mitigation and Prevention Strategies.
 
