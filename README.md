@@ -52,6 +52,6 @@ Contributions are welcome! If you find any errors, have any suggestions, or want
 
 ## 📬Contact
 If you have any questions, please feel free to contact me at:<br>
-🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)<br>
-💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](www.linkedin.com/in/josé-pablo-mena-villalobos)<br>
-📧 **Email**: pablo13villalobos@gmail.com
+🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)  
+💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](https://www.linkedin.com/in/jpablo-villalobos/)  
+📧 **Email**: pablo13villalobos@gmail.com 
