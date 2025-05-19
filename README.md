@@ -52,6 +52,7 @@ Contributions are welcome! If you find any errors, have any suggestions, or want
 
 # 📬Contact
 If you have any questions, please feel free to contact me at:  
-🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)  
-💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](https://www.linkedin.com/in/jpablo-villalobos/)  
-📧 **Email**: pablo13villalobos@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpablo-villalobos/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPablo13)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pablo13villalobos@proton.me)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jpablo13)
